@@ -59,7 +59,9 @@ Visit http://localhost:8080 in your browser.
 ![image](https://github.com/user-attachments/assets/0c3e0d0c-b585-41b5-a900-44abae3c6501)
 
 
-Admin Dashboard
+
+**Admin Dashboard**
+
 ![image](https://github.com/user-attachments/assets/0e1e2ca2-c574-487c-a567-c3f4b7bc61cb)
 
 
